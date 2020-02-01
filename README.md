@@ -1,2 +1,2 @@
 # python contatore
- Con gui e suono ad ogni fine
+ Con GUI e suono ad ogni fine ciclo
